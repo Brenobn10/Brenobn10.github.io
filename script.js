@@ -1,5 +1,5 @@
 function sim() {
-    alert("Você aceitou dar uns beijinhos! <3")
+    alert("Você aceitou dar uns beijinhos hj! <3")
 }
 
 function desvia(t) {
