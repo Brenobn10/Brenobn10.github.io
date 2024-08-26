@@ -1,5 +1,5 @@
 function sim() {
-    alert("É lora vea, já aceitou, não tem mais volta! <3")
+    alert("É lora vea, já aceitou, não tem mais volta! ❤️")
 }
 
 function desvia(t) {
