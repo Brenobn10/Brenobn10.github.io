@@ -1,5 +1,6 @@
 #conteudo {
     background: url("https://i.pinimg.com/originals/eb/c2/e7/ebc2e73834ed3b682d5ddd2ce0ebb881.jpg");
+    width: 100%;
     height: 100%;
     position: fixed;
     top: 0;
@@ -10,8 +11,15 @@
 }
 
 .btn {
-    background: black;
-    color: white;
+    vertical-align: inherit;
+    background: red;
+    color: #212161;
+    border-radius: 5px;
+}
+
+.pag {
+    background: red;
+    color: #212161;
     border: none;
     padding: 10px;
     width: 80px;
